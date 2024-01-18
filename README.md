@@ -21,13 +21,19 @@ https://github.com/Amzza0x00/Zerooo-Exploitation-Framework                      
 [资产侦察] [Python]   https://github.com/rackerlabs/scantron                                      </br>
 [资产侦察] [Python]   https://github.com/yogeshojha/rengine                                       </br>
 [资产侦察] [Python]   https://github.com/smallcham/sec-admin                                      </br>
+[资产侦察] [Python]   https://github.com/XTeam-Wing/Vulcan                                        </br>
+[资产侦察] [Python]   https://github.com/f4cknet/anjianrvms                                       </br>
+[资产侦察] [Python]   https://github.com/we1h0/SecurityManageFramwork                             </br>
+[资产侦察] [Python]   https://github.com/vulscanteam/vulscan                                      </br>
 [代理平台] [Python]   https://github.com/orleven/Hamster                                          </br>
 [代理平台] [Python]   https://github.com/ghtwf01/excavator                                        </br>
 [证书监控] [Python]   https://github.com/mouday/domain-admin                                      </br>
 [资产侦察] [GO]       https://github.com/jweny/pocassist                                          </br>
 [资产侦察] [GO]       https://github.com/medasz/GoScan                                            </br>
 [资产侦察] [GO]       https://github.com/1in9e/gosint                                             </br>
+[资产侦察] [GO]       https://github.com/yhy0/Jie                                                 </br>
 [资产侦察] [PHP]      https://github.com/4x99/code6                                               </br>
+[资产侦察] [PHP]      https://github.com/TideSec/WDScanner                                        </br>
 [资产侦察] [不在更新] https://github.com/1c3z/ARL-Distributed                                     </br>
 [资产侦察] [不在更新] https://github.com/ysrc/xunfeng                                             </br>
 [基线检查] [GO]       https://github.com/selinuxG/Golin                                           </br>
@@ -109,6 +115,8 @@ https://github.com/agrawalsmart7/scodescanner                                   
 
 ## 漏洞管理
 https://github.com/DefectDojo/django-DefectDojo                                                   </br>
+https://github.com/infobyte/faraday                                                               </br>
+https://github.com/RASSec/A_Scan_Framework                                                        </br>
 
 ## 威胁情报
 [带前端] https://github.com/smicallef/spiderfoot                                                  </br>
@@ -141,6 +149,7 @@ https://github.com/secureCodeBox/secureCodeBox                                  
 [API 安全] https://aur0ra.cn/3-apikiller/                                                         </br>
 [API 安全] https://github.com/Aur0ra-m/APIKiller                                                  </br>
 [API 安全] https://github.com/zsdlove/Hades                                                       </br>
+[密钥检查] https://github.com/globocom/huskyCI                                                    </br>
 
 ## DNSlog
 https://github.com/TONG0S/DNSLOG                                                                  </br>
