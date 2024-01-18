@@ -30,6 +30,7 @@ https://github.com/Amzza0x00/Zerooo-Exploitation-Framework                      
 [资产侦察] [PHP]      https://github.com/4x99/code6                                               </br>
 [资产侦察] [不在更新] https://github.com/1c3z/ARL-Distributed                                     </br>
 [资产侦察] [不在更新] https://github.com/ysrc/xunfeng                                             </br>
+[基线检查] [GO]       https://github.com/selinuxG/Golin                                           </br>
 [敏感信息监控]        https://github.com/madneal/gshark                                           </br>
 [代码审计]            https://github.com/YulinSec/ChatGPTScan-SAST                                </br>
 [工具集合] [Python]   https://github.com/iceyhexman/onlinetools                                   </br>
