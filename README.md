@@ -12,7 +12,6 @@ https://github.com/Bywalks/DarkAngel                                            
 https://github.com/Amzza0x00/Zerooo-Exploitation-Framework                                        </br>
 
 ## 带前端的平台程序
-[工具集合] [Python]   https://github.com/iceyhexman/onlinetools                                   </br>
 [资产侦察] [Python]   https://github.com/TophantTechnology/ARL                                    </br>
 [资产侦察] [Python]   https://github.com/SiJiDo/hhsrc                                             </br>
 [资产侦察] [Python]   https://github.com/wgpsec/DBJ                                               </br>
@@ -21,17 +20,21 @@ https://github.com/Amzza0x00/Zerooo-Exploitation-Framework                      
 [资产侦察] [Python]   https://github.com/b0bac/ApolloScanner                                      </br>
 [资产侦察] [Python]   https://github.com/rackerlabs/scantron                                      </br>
 [资产侦察] [Python]   https://github.com/yogeshojha/rengine                                       </br>
-[资产侦察] [GO]       https://github.com/medasz/GoScan                                            </br>
-[资产侦察] [GO]       https://github.com/1in9e/gosint                                             </br>
-[资产侦察] [不在更新] https://github.com/1c3z/ARL-Distributed                                     </br>
-[资产侦察] [不在更新] https://github.com/ysrc/xunfeng                                             </br>
+[资产侦察] [Python]   https://github.com/smallcham/sec-admin                                      </br>
 [代理平台] [Python]   https://github.com/orleven/Hamster                                          </br>
 [代理平台] [Python]   https://github.com/ghtwf01/excavator                                        </br>
 [证书监控] [Python]   https://github.com/mouday/domain-admin                                      </br>
+[资产侦察] [GO]       https://github.com/jweny/pocassist                                          </br>
+[资产侦察] [GO]       https://github.com/medasz/GoScan                                            </br>
+[资产侦察] [GO]       https://github.com/1in9e/gosint                                             </br>
+[资产侦察] [PHP]      https://github.com/4x99/code6                                               </br>
+[资产侦察] [不在更新] https://github.com/1c3z/ARL-Distributed                                     </br>
+[资产侦察] [不在更新] https://github.com/ysrc/xunfeng                                             </br>
 [敏感信息监控]        https://github.com/madneal/gshark                                           </br>
 [代码审计]            https://github.com/YulinSec/ChatGPTScan-SAST                                </br>
-[资产侦察] [GO]       https://github.com/jweny/pocassist                                          </br>
-[资产侦察] [Python]   https://github.com/smallcham/sec-admin                                      </br>
+[工具集合] [Python]   https://github.com/iceyhexman/onlinetools                                   </br>
+[URL 监控]            https://github.com/HandsomeOne/Scout                                        </br>
+[URL 监控]            https://github.com/Lissy93/web-check                                        </br>
 
 ## 工具合集
 [文件上传检查] https://github.com/almandin/fuxploider                                             </br>
@@ -103,12 +106,18 @@ https://github.com/agrawalsmart7/scodescanner                                   
 [sql]   https://github.com/sqlmapproject/sqlmap                                                   </br>
 [nosql] https://github.com/Charlie-belmer/nosqli                                                  </br>
 
+## 漏洞管理
+https://github.com/DefectDojo/django-DefectDojo                                                   </br>
+
 ## 威胁情报
 [带前端] https://github.com/smicallef/spiderfoot                                                  </br>
+[带前端] https://github.com/opencve/opencve                                                       </br>
 [带前端] https://github.com/werneror/pekja                                                        </br>
 [带前端] https://github.com/laramies/theHarvester                                                 </br>
 [带前端] https://github.com/KaanSK/shomon                                                         </br>
 [带前端] https://github.com/OpenCTI-Platform/opencti                                              </br>
+https://github.com/Vu1nT0tal/yarb                                                                 </br>
+https://github.com/cve-search/cve-search                                                          </br>
 https://github.com/Nazicc/threat-broadcast                                                        </br>
 https://github.com/EXP-Tools/threat-broadcast                                                     </br>
 https://github.com/Bywalks/DarkAngel                                                              </br>
@@ -130,6 +139,7 @@ https://github.com/KasRoudra/PyPhisher                                          
 https://github.com/secureCodeBox/secureCodeBox                                                    </br>
 [API 安全] https://aur0ra.cn/3-apikiller/                                                         </br>
 [API 安全] https://github.com/Aur0ra-m/APIKiller                                                  </br>
+[API 安全] https://github.com/zsdlove/Hades                                                       </br>
 
 ## DNSlog
 https://github.com/TONG0S/DNSLOG                                                                  </br>
@@ -158,6 +168,13 @@ https://github.com/Security-Onion-Solutions/securityonion                       
 ## EDR 框架
 https://github.com/RoomaSec/RmEye                                                                 </br>
 https://github.com/wazuh/wazuh                                                                    </br>
+https://osquery.io/
+
+## 其他信息
+https://vuldb.com/
+https://www.cvedetails.com/
+https://vulners.com/
+https://www.exploit-db.com/
 
 
 
